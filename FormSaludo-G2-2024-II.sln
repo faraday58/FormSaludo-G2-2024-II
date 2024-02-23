@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormSaludo-G2-2024-II", "FormSaludo-G2-2024-II.csproj", "{5DD45958-9538-4045-ABA1-C010B0F5868E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DD45958-9538-4045-ABA1-C010B0F5868E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD45958-9538-4045-ABA1-C010B0F5868E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD45958-9538-4045-ABA1-C010B0F5868E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD45958-9538-4045-ABA1-C010B0F5868E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4878C7C2-A788-4440-8659-2747A5C9E490}
+	EndGlobalSection
+EndGlobal
