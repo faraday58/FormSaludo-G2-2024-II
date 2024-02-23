@@ -11,6 +11,7 @@ namespace FormSaludo_G2_2024_II
         private Button btnAceptar;
         private Button btnCancelar;
 
+        //Cambio
         public void InitializeComponent()
         {
             this.Text = "Formulario Saludo";
